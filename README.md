@@ -54,22 +54,7 @@ The script removes all slashes (/) from Dewey numbers, regardless of their posit
 ## Batch Processing
 The script processes records in batches (default: 500 records per batch). You can modify the batch_size variable in the main() function to adjust the size.
 
-## Example Output:
-Searching for records with / in Dewey numbers...
-Found 1,500 records with / in Dewey numbers.
 
-Conversion examples:
-Before          After           Changed?  
------------------------------------------
-001.1/094       001.1094        Yes       
-001.0917/67     001.091767      Yes       
-...
 
-Starting update of 1,500 records in batches of 500...
-Processed: 500/1500 | Updated: 500
-Processed: 1000/1500 | Updated: 1000
-Processed: 1500/1500 | Updated: 1500
-
-Update completed. Total records updated: 1500
 
 
