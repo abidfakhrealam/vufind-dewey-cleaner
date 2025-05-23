@@ -16,8 +16,8 @@ A Python-based utility to clean slashes (`/`) from Dewey Decimal Classification 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dewey-slash-cleaner.git
-   cd dewey-slash-cleaner
+   git clone https://github.com/abidfakhrealam/vufind-dewey-cleaner.git
+   cd vufind-dewey-cleaner
 
 2. Install the required dependencies:
    ```bash
@@ -33,7 +33,7 @@ A Python-based utility to clean slashes (`/`) from Dewey Decimal Classification 
 
 2. Run the script:
    ```bash
-   python dewey_cleaner.py
+   python script.py
 
 3. Follow the prompts to review the number of affected records and confirm updates.
 
